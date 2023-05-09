@@ -1,0 +1,8 @@
+Tiedostossa on mukana 7 vähintään 30 vuotiasta henkilöä.
+Ville Valo;401234567;37
+Joona Jokamies;441234567;89
+Jaska Jokunen;451234567;44
+Teija Terasmies;401234568;32
+Risto Reipas;501234568;53
+Erja Railakas;441234568;38
+Reija Kulmikas;441231234;42
